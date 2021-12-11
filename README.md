@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanmejayM
+- 👋 Hi, I’m Janmejay Mohapatra
 - 👀 I’m interested in learning and implementing new technology
 - 🌱 I’m currently learning matlab
 - 💞️ I’m looking to collaborate on interesting/new ideas
