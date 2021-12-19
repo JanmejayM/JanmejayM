@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janmejay Mohapatra
 - 👀 I’m interested in learning and implementing new technology
-- 🌱 I’m currently learning matlab
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on interesting/new ideas
 - 📫 How to reach me mohapatra.janmejayz@gmail.com
 
