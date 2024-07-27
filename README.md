@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Janmejay Mohapatra</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
@@ -7,7 +8,7 @@
 
 - 💬 Ask me about **React,Angular,SpringBoot**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SjJja_JmcLuriNfUUmh4ZiwXmpg0T91T/view?usp=sharing"><Click here/a>[[]]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SjJja_JmcLuriNfUUmh4ZiwXmpg0T91T/view?usp=sharing"><i class="fa fa-file-text" aria-hidden="true"></i></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
