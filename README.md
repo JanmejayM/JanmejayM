@@ -115,14 +115,9 @@ Mobile application for document tracking
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/janmejaym">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmejaym&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/janmejaym">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=janmejaym&show_icons=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janmejaym&layout=compact&hide_border=true" alt="Top Languages" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=janmejaym&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
 ---
 
