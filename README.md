@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Janmejay Mohapatra
 
 <p align="center">
-  <strong>Full Stack Developer | IoT Enthusiast</strong>
+  <strong>Full Stack Developer | IoT Enthusiast | AI/ML Explorer</strong>
   <br>
   <em>Building scalable web and mobile applications</em>
 </p>
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with hands-on experience building web and mobile applications. I work with modern technologies like Java, Python, JavaScript, and have worked on several projects ranging from e-commerce platforms to IoT solutions.
+I'm a full-stack developer with hands-on experience building web and mobile applications. I work with modern technologies like Java, Python, JavaScript, and have worked on several projects ranging from e-commerce platforms to IoT solutions. Currently exploring AI/ML integration and cloud-native architectures.
 
 ---
 
@@ -91,11 +91,34 @@ Mobile application for document management
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Tools
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Current Focus & Learning
+
+### 🤖 AI/ML Exploration
+- Machine Learning fundamentals and applications
+- Integrating AI models into web applications
+- Natural Language Processing (NLP)
+- Computer Vision projects
+
+### ☁️ Cloud Solutions
+- Cloud-native application development
+- Microservices architecture patterns
+- Containerization with Docker & Kubernetes
+- AWS, Google Cloud, Azure fundamentals
+- Serverless computing and API Gateway
+
+### 📊 Advanced Topics
+- Data analytics and Big Data processing
+- Real-time data pipelines
+- Performance optimization at scale
+- Security best practices in modern applications
 
 ---
 
