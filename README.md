@@ -115,10 +115,16 @@ Mobile application for document tracking
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=janmejaym&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janmejaym&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=janmejaym&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janmejaym&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janmejaym" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -142,7 +148,7 @@ Mobile application for document tracking
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/janmejay-mohapatra/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
