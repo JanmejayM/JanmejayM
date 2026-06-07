@@ -6,7 +6,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=janmejaym&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/janmejaym?style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -113,20 +112,12 @@ Mobile application for document tracking
 
 ---
 
-## 📊 GitHub Statistics
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janmejaym&layout=compact&hide_border=true" alt="Top Languages" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=janmejaym&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
----
-
 ## 🏆 Competitive Programming
 
-- **CodeChef** - Active problem solver
-- **HackerRank** - Algorithm & Data Structure challenges
-- **LeetCode** - Interview preparation & coding challenges
-- **GeeksforGeeks** - Learning & contribution
+- **CodeChef** - [janmejay_m1](https://www.codechef.com/users/janmejay_m1)
+- **HackerRank** - [janmejay_m1](https://www.hackerrank.com/janmejay_m1)
+- **LeetCode** - [janmejay_m1](https://www.leetcode.com/janmejay_m1)
+- **GeeksforGeeks** - [janmejay_m1](https://auth.geeksforgeeks.org/user/janmejay_m1)
 
 ---
 
@@ -167,11 +158,11 @@ Mobile application for document tracking
 ## 📄 Resume & Portfolio
 
 - **Portfolio Website:** [janmejaym.github.io/janmejay-portfolio](https://janmejaym.github.io/janmejay-portfolio)
-- **Resume:** <a href="https://drive.google.com/file/d/1Zeipznz7egrHBE9vPWSLGR33U9lVOdRs/view?usp=sharing">View on Google Drive</a>
+- **Resume:** [View on Google Drive](https://drive.google.com/file/d/1Zeipznz7egrHBE9vPWSLGR33U9lVOdRs/view?usp=sharing)
 
 ---
 
-## 🎯 Current Focus
+## �� Current Focus
 
 - 🔍 Building scalable microservices architectures
 - 🤖 Exploring AI/ML integration in web applications
